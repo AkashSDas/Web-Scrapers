@@ -1,4 +1,4 @@
-# Apple Refurbished Price Tracker
+# Amazon Price Tracker
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
@@ -20,9 +20,19 @@
 
 ## About
 
-> 🐍 Python script is used to scrape the 💵 price of a 📗 book in amazon among **top 10 sellers** and it gives the current lowest price's details like `price`, `delivery method`, `condition`, `seller name`, `seller ratings` and `how many customer's have rated the seller's services`.
+> 🐍 Python script is used to scrape the 💵 price of a 📗 book in amazon among **top 10 sellers** and it gives the current lowest price's details.
 
 > Url of that book's page on amazon 👉 [link](https://www.amazon.in/gp/offer-listing/0545289327/ref=dp_olp_all_mbc?ie=UTF8&condition=all)
+
+#### Details of current lowest price book consists of:
+
+- current time
+- price of the book
+- delivery method
+- condition
+- seller name
+- seller ratings
+- how many customers have rated the seller's services
 
 ## Technologies Used
 

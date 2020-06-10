@@ -36,7 +36,7 @@
 
 ## Installation
 
-> It is **recommended** to use **`virtual enviroment`** for this project to avoid any 😫 issues related to dependencies.
+> It is **recommended** to use **`virtual environment`** for this project to avoid any 😫 issues related to dependencies.
 
 Here **`pipenv`** is used for this project.
 
