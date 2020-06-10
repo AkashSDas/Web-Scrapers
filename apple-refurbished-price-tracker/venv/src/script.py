@@ -1,9 +1,15 @@
 # ****** Apple Refurbished Price Tracker ******
 
-# *** Usage ***
-# This script tracks price of mackbook pro 13-inch in Apple's
-# refurbished website and sends a mail when the price is equal
-# to or less than the price that you had set.
+
+# *******************************
+
+""" 
+    *** Usage ***
+
+    This script tracks price of mackbook pro 13-inch in Apple's
+    refurbished website and sends a mail when the price is equal
+    to or less than the price that you had set. 
+"""
 
 # *******************************
 
