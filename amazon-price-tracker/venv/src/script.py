@@ -23,8 +23,8 @@ URL = "https://www.amazon.in/gp/offer-listing/0545289327/ref=dp_olp_all_mbc?ie=U
 
 # ****** Sending request ******
 def send_request(URL):
+    response = requests.get(URL)
     try:
-        response = requests.get(URL)
         source = response.text
         return source
     except:
