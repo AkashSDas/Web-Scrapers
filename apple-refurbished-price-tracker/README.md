@@ -24,6 +24,8 @@
 
 > You can set the 💰 price at which you want to buy the MacBook and the run the script, once the price of that MacBook becomes `equal or less` to the price you had set, you will receive an 💌 `email` which will have the `URL and the current price of that MacBook.`
 
+> Url of that macbook's page on apple's website 👉 [link](https://www.apple.com/shop/product/FUHN2LL/A/refurbished-133-inch-macbook-pro-14ghz-quad-core-intel-core-i5-with-retina-display-space-gray?fnode=967ede1640460de801fd08be8545d04c003936c10908794cc2dcf3bec31bab2eb968a73b29285f05fcbcb750688d2990f4babb5fc9112ecf301d79a898a95032f9f903bdc9c775faca59b895ed2d18c5)
+
 ## Technologies Used
 
 > [![](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-380/) is used as Programming Language.
