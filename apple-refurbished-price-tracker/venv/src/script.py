@@ -1,8 +1,6 @@
 # ****** Apple Refurbished Price Tracker ******
 
 
-# *******************************
-
 """ 
     *** Usage ***
 
@@ -11,7 +9,6 @@
     to or less than the price that you had set. 
 """
 
-# *******************************
 
 # ****** Importing Modules ******
 import smtplib
@@ -78,4 +75,3 @@ def buy_when_price_equal_to_my_price(URL, BUY_AT_PRICE):
 # ****** Calling the buy_when_price_equal_to_my_price function ******
 buy_when_price_equal_to_my_price(URL, BUY_AT_PRICE)
 
-# *******************************
